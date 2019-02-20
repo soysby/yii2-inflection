@@ -11,7 +11,7 @@
     },
     "require": {
         "yiisoft/yii2": "^2.0",
-        "wapmorgan/morphos": "dev-master"
+        "wapmorgan/morphos": "dev-develop"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.8"
